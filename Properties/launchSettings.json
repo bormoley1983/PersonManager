@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PersonManager": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
